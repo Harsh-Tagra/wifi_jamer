@@ -9,6 +9,6 @@
 <H2>how to run </H2>
 <H2>1. Install required file </H2>
 <center><H3> ./requirement-install.sh<H3></center>
-<H2>2. open terminal enter command</H2>
+<H2>2. enter command to run </H2>
 <H3>./wifijamer.sh</H3>
 
